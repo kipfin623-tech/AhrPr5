@@ -1,0 +1,35 @@
+[2026-11-10 18:45:52] Dobavlen Contact: C1 - Ivanov Petr 1
+[2026-11-10 18:45:52] Dobavlen Contact: C6 - OOO Vektor 1
+[2026-11-10 18:45:52] Dobavlen Contact: C11 - CEO Company 1
+[2026-11-10 18:45:52] Dobavlen Contact: C2 - Ivanov Petr 2
+[2026-11-10 18:45:52] Dobavlen Contact: C7 - OOO Vektor 2
+[2026-11-10 18:45:52] Dobavlen Contact: C12 - CEO Company 2
+[2026-11-10 18:45:52] Dobavlen Contact: C3 - Ivanov Petr 3
+[2026-11-10 18:45:52] Dobavlen Contact: C8 - OOO Vektor 3
+[2026-11-10 18:45:52] Dobavlen Contact: C13 - CEO Company 3
+[2026-11-10 18:45:52] Dobavlen Contact: C4 - Ivanov Petr 4
+[2026-11-10 18:45:52] Dobavlen Contact: C9 - OOO Vektor 4
+[2026-11-10 18:45:52] Dobavlen Contact: C14 - CEO Company 4
+[2026-11-10 18:45:52] Dobavlen Contact: C5 - Ivanov Petr 5
+[2026-11-10 18:45:52] Dobavlen Contact: C10 - OOO Vektor 5
+[2026-11-10 18:45:52] Dobavlen Contact: C15 - CEO Company 5
+[2026-11-10 18:45:52] Zaregestrirovanna Gruppa: Clients
+[2026-11-10 18:45:52] Zaregestrirovanna Gruppa: Partners
+[2026-11-10 18:46:32] Contactu C1 dobavlen nomer +79776570947
+[2026-11-10 18:49:44] Dobavlen Contact: C1 - Ivanov Petr 1
+[2026-11-10 18:49:44] Dobavlen Contact: C6 - OOO Vektor 1
+[2026-11-10 18:49:44] Dobavlen Contact: C11 - CEO Company 1
+[2026-11-10 18:49:44] Dobavlen Contact: C2 - Ivanov Petr 2
+[2026-11-10 18:49:44] Dobavlen Contact: C7 - OOO Vektor 2
+[2026-11-10 18:49:44] Dobavlen Contact: C12 - CEO Company 2
+[2026-11-10 18:49:44] Dobavlen Contact: C3 - Ivanov Petr 3
+[2026-11-10 18:49:44] Dobavlen Contact: C8 - OOO Vektor 3
+[2026-11-10 18:49:44] Dobavlen Contact: C13 - CEO Company 3
+[2026-11-10 18:49:44] Dobavlen Contact: C4 - Ivanov Petr 4
+[2026-11-10 18:49:44] Dobavlen Contact: C9 - OOO Vektor 4
+[2026-11-10 18:49:44] Dobavlen Contact: C14 - CEO Company 4
+[2026-11-10 18:49:44] Dobavlen Contact: C5 - Ivanov Petr 5
+[2026-11-10 18:49:44] Dobavlen Contact: C10 - OOO Vektor 5
+[2026-11-10 18:49:44] Dobavlen Contact: C15 - CEO Company 5
+[2026-11-10 18:49:44] Zaregestrirovanna Gruppa: Clients
+[2026-11-10 18:49:44] Zaregestrirovanna Gruppa: Partners
